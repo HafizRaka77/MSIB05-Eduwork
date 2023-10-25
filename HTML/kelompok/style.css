@@ -1,0 +1,101 @@
+* {margin: 0;padding: 0;}
+
+body{font-family: Arial, Helvetica, sans-serif;}
+
+#page {
+    width: 60%;
+    background: whitesmoke;
+    margin: 50px auto;
+    padding: 30px;
+    color: #27aae1;
+}
+
+.photo {
+    width: 15%;
+    float: left;
+    margin-right: 20px;
+}
+
+.contact-info-box {
+    width: 75%;
+    display: inline-block;
+}
+
+.name {
+    margin-top: 5px;
+}
+
+.contact-details {
+    background: #27aae1;
+    color: white;
+    text-align: center;
+    margin: auto;
+    margin-top: 25px;
+    padding: 5px;
+    font-size: 15px;
+}
+
+#Profile h3 {
+    border: 2px solid #d3d3d3;
+    text-transform: uppercase;
+    padding: 5px;
+    border-radius: 5px;
+    margin: 30px 0 10px;
+}
+
+#Profile p {
+    padding: 0 5px;
+    line-height: 25px;
+    font-size: 14px;
+    text-align: justify;
+    color: #000;
+}
+
+#education h3 {
+    border: 2px solid #d3d3d3;
+    text-transform: uppercase;
+    padding: 5px;
+    border-radius: 5px;
+    margin: 10px 0 10px;
+}
+
+#education table td {
+    padding: 5px;
+    font-size: 14px;
+    color: #000;
+}
+
+#lecture_project h3 {
+    border: 2px solid #d3d3d3;
+    text-transform: uppercase;
+    padding: 5px;
+    border-radius: 5px;
+    margin: 10px 0 10px;
+}
+
+#lecture_project table td {
+    padding: 10px;
+    font-size: 14px;
+    color: #000;
+}
+
+#skill h3 {
+    border: 2px solid #d3d3d3;
+    text-transform: uppercase;
+    padding: 5px;
+    border-radius: 5px;
+    margin: 10px 0 10px;
+}
+
+#skill table td {
+    padding: 8px;
+    font-size: 15px;
+    color: #000;
+}
+
+#skill ul{
+    padding: 0 10px;
+    line-height: 25px;
+    font-size: 14px;
+    text-align: justify;
+}
