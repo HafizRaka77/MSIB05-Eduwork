@@ -1,0 +1,40 @@
+*{
+    font-family: Arial;
+}
+body{
+    margin: 0;
+    padding: 0;
+
+}
+header{
+    width: 70%;
+    margin-top: 5%;
+    margin-left: 25%;
+    text-align: justify;
+
+}
+
+header hr{
+    border: 2px solid;
+    color: yellow;
+    width: 10%;
+    margin-left: 0;
+}
+
+header button{
+    background-color: yellow;
+    border: 0px solid transparent;
+    margin-top: 10px;
+    width: 250px;
+    height: 25px;
+    border-radius: 4px;
+    color: black;
+}
+aside{
+    width: 250px;
+    height: 250px;
+    margin-top: 10%;
+    margin-right: 20%;
+    margin-left: 5%;
+    display: flex;
+}

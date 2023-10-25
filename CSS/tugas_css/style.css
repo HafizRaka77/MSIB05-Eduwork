@@ -1,0 +1,138 @@
+body{
+    background-color: #fafafa;
+}
+
+.container{
+    width: 700px;
+    margin: 0px auto;
+    padding-top: 40px;
+    display: flex;
+}
+.gambar{
+    width: 50%;
+}
+
+.img-thumb{
+    width: 100%;
+}
+
+.card-wrapper{
+    width: 50%;
+}
+
+.card{
+    border-style: solid;
+    border-color: #f0f0f0;
+    border-width: 2px;
+    text-align: center;
+    background-color: white;
+    margin-left: 15px;
+    padding-bottom: 10px;
+    padding-top: 5px;
+
+}
+.logo{
+    width: 200px;
+}
+
+.form{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.input{
+    width: 250px;
+    height: 20px;
+    border: 1px solid grey;
+    border-radius: 5px;
+    margin-top: 10px;
+    padding: 5px;
+}
+
+.btn{
+    background-color: #0095f6;
+    border: 0px solid transparent;
+    margin-top: 20px;
+    width: 260px;
+    height: 30px;
+    border-radius: 5px;
+    color: white;
+}
+
+.or{
+	display: flex;
+	align-items: center;
+	height: 15px;
+}
+
+.or .line{
+	width: 100px;
+	height: 2px;
+	background: #efefef;
+    margin-left: 35px;
+    margin-right: 35px;
+}
+
+.or p{
+	color: #999;
+	font-size: 15px;
+}
+
+.login-with{
+    color: #385185;
+    text-decoration: none;
+}
+
+.link-forgot{
+    color: grey;
+    text-decoration: none;
+    font-size: 12px;
+}
+
+.link-signup{
+    text-decoration: none;
+    color: #0095f6;
+}
+
+.apps{
+	text-align: center;
+	color: #262626;
+}
+
+.apps p{
+	margin-bottom: 20px;
+}
+
+.apps a img{
+	width: 135px;
+	height: 40px;
+	margin: 20 0 15px;
+}
+
+.footer {
+    margin-top: 80px;
+    padding-bottom: 52px;
+    padding-top: 24px;
+}
+
+.links {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.links a {
+    text-decoration: none;
+    color: grey;
+    font-size: 13px;
+    line-height: 18px;
+    margin: 0 8px 12px 8px;
+}
+
+.copyright {
+    padding: 12px 0;
+    color: grey;
+    font-size: 13px;
+    line-height: 18px;
+    text-align: center;
+}
